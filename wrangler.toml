@@ -1,0 +1,12 @@
+name = "rowan"
+main = "worker.js"
+compatibility_date = "2026-01-20"
+keep_vars = true
+workers_dev = true
+
+[[kv_namespaces]]
+binding = "C"
+id = "b0ffb19ebc514793b6fd6d56d406e650"
+
+[observability]
+enabled = true
